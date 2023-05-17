@@ -17,8 +17,11 @@ The purpose of this project is to be an educational and application instance of 
 The problem to be solve by our group is to design a web aplication for kids under 18 so they can learn about astronomy in a fun and interactive way. Since this project is focused mainly in user experience design, this project will only describe the strategy, scope, structure, skeleton and surface. All of this will be focused on a computer based aplication.
 
 ## Strategy
+Our first step as a team, was to create the strategy. A "Value Proposition Canvas" is used to compare application and the posible solutions that it may bring to our users.
+
 ![Propuesta Valor (Strategy)](https://github.com/jabinherrera/UX/assets/89926906/636d60af-5252-428a-8443-fccd1f7cad87)
 
+This process helped us understand our market segment and relate it to a value-adding proposition. From the previous figure, is worth mentioning the element in "Work to be done", "Show space images" and its counterpart in "Functionality", "Friendly elements and/or images", this allowed us to get a better understanding of our project. <!-- Decir si agregamos, mantubimos o descartamos ideas de las propuestas de valor al final del proyecto -->
 
 ## Scope
 
