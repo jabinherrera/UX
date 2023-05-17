@@ -17,7 +17,7 @@ The purpose of this project is to be an educational and application instance of 
 The problem to be solve by our group is to design a web aplication for kids under 18 so they can learn about astronomy in a fun and interactive way. Since this project is focused mainly in user experience design, this project will only describe the strategy, scope, structure, skeleton and surface. All of this will be focused on a computer based aplication.
 
 ## Strategy
-![Propuesta de Valor (Strategy)](https://hackmd.io/_uploads/SkA_OufS3.jpg)
+![Propuesta Valor (Strategy)](https://github.com/jabinherrera/UX/assets/89926906/636d60af-5252-428a-8443-fccd1f7cad87)
 
 
 ## Scope
