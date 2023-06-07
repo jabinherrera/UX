@@ -24,9 +24,11 @@ Our first step as a team, was to create the strategy. A "Value Proposition Canva
 This process helped us understand our market segment and relate it to a value-adding proposition. From the previous figure, is worth mentioning the element in "Work to be done", "Show space images" and its counterpart in "Functionality", "Friendly elements and/or images", this allowed us to get a better understanding of our project. <!-- Decir si agregamos, mantubimos o descartamos ideas de las propuestas de valor al final del proyecto -->
 
 ## Scope
+In this section we create a profile of our ideal customer and visualize how our product will work for them. So we created what is called a User Persona.
 ![User Persona](https://github.com/jabinherrera/UX/assets/89926906/7f296e21-f630-46fe-8069-998cda1b6afa)
 
 ![Customer Journey - UXUI](https://github.com/jabinherrera/UX/assets/89926906/7d9fe45f-a802-4c3b-b85d-47d43225de8a)
+According to the UX Persona we define the customer journey map as a projection of what our user is going to feel when using our website.
 
 <!-- Falta benchmark -->
 ## Structure
