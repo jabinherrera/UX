@@ -24,7 +24,7 @@ Our first step as a team, was to create the strategy. A "Value Proposition Canva
 This process helped us understand our market segment and relate it to a value-adding proposition. From the previous figure, is worth mentioning the element in "Work to be done", "Show space images" and its counterpart in "Functionality", "Friendly elements and/or images", this allowed us to get a better understanding of our project. <!-- Decir si agregamos, mantubimos o descartamos ideas de las propuestas de valor al final del proyecto -->
 
 ## Scope
-![Ux Personas](https://hackmd.io/_uploads/B1d-y7R83.png)
+[![UxPersonas](https://hackmd.io/_uploads/rktQIXR8n.png)](https://github.com/jabinherrera/UX/blob/main/deliverables/User%20Persona%20-%20UXUI.png)
 
 <!-- Falta benchmark -->
 ## Structure
