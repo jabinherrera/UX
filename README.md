@@ -31,6 +31,9 @@ In this section we create a profile of our ideal customer and visualize how our 
 According to the UX Persona we define the customer journey map as a projection of what our user is going to feel when using our website.
 
 We define how to meet the strategic objectives defined in the previous section. These are converted into requirements through the benchmark canvas.
+![Benchmark Esquema](https://github.com/jabinherrera/UX/assets/89926906/972022e9-1941-4dca-bb55-18fec10c596b)
+
+And we also made a comparative table for benchmarking.
 ![Benchmarking](https://github.com/jabinherrera/UX/assets/89926906/2e6c9f2f-eb3c-49af-ad38-5a0fe82e79da)
 
 ## Structure
