@@ -27,8 +27,8 @@ This process helped us understand our market segment and relate it to a value-ad
 In this section we create a profile of our ideal customer and visualize how our product will work for them. So we created what is called a User Persona.
 ![User Persona](https://github.com/jabinherrera/UX/assets/89926906/7f296e21-f630-46fe-8069-998cda1b6afa)
 
-![Customer Journey - UXUI](https://github.com/jabinherrera/UX/assets/89926906/7d9fe45f-a802-4c3b-b85d-47d43225de8a)
 According to the UX Persona we define the customer journey map as a projection of what our user is going to feel when using our website.
+![Customer Journey - UXUI](https://github.com/jabinherrera/UX/assets/89926906/7d9fe45f-a802-4c3b-b85d-47d43225de8a)
 
 We define how to meet the strategic objectives defined in the previous section. These are converted into requirements through the benchmark canvas.
 ![Benchmark Esquema](https://github.com/jabinherrera/UX/assets/89926906/972022e9-1941-4dca-bb55-18fec10c596b)
@@ -41,7 +41,7 @@ And we also made a comparative table for benchmarking.
 
 
 ## Skeleton
-Wireframes
+[Wireframes](https://github.com/jabinherrera/UX/blob/main/deliverables/mockups(lowfi).pdf)
 
 ## Surface
 Mockups
