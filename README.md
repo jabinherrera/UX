@@ -41,10 +41,10 @@ And we also made a comparative table for benchmarking.
 
 
 ## Skeleton
-[Wireframes](https://github.com/jabinherrera/UX/blob/main/deliverables/mockups(lowfi).pdf)
+[Mockups(LowQuality)](https://github.com/jabinherrera/UX/blob/main/deliverables/mockups(lowfi).pdf)
 
 ## Surface
-Mockups
+[Mockups(HD)](https://github.com/jabinherrera/UX/blob/main/deliverables/Interfaces%20hd.pdf)
 
 ## Usability and accessibility
 
