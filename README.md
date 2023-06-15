@@ -46,6 +46,8 @@ And we also made a comparative table for benchmarking.
 ## Surface
 [Mockups(HD)](https://github.com/jabinherrera/UX/blob/main/deliverables/Interfaces%20hd.pdf)
 
+[Figma](https://www.figma.com/file/d8i0rGzcCABYXVJy528eff/Interfaces-HD?type=design&node-id=0%3A1&t=ryEWUxo5mKQeToMj-1)
+
 ## Usability and accessibility
 
 ### Usability evaluation
