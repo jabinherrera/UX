@@ -25,7 +25,10 @@ This process helped us understand our market segment and relate it to a value-ad
 
 ## Scope
 In this section we create a profile of our ideal customer and visualize how our product will work for them. So we created what is called a User Persona.
-![User Persona](https://github.com/jabinherrera/UX/assets/89926906/7f296e21-f630-46fe-8069-998cda1b6afa)
+<img width="503" alt="UXPersona1" src="https://github.com/jabinherrera/UX/assets/89926906/6857b1cd-6917-4577-b6ba-c3c6cb2a6a32">
+<img width="503" alt="UXPersona2" src="https://github.com/jabinherrera/UX/assets/89926906/09976555-28be-4f1e-b512-524494e13a84">
+<img width="500" alt="UXPersona3" src="https://github.com/jabinherrera/UX/assets/89926906/62cb1be3-2619-4bcd-99b5-b539266438d3">
+
 
 According to the UX Persona we define the customer journey map as a projection of what our user is going to feel when using our website.
 ![Customer_Journey_-_UXUI](https://github.com/jabinherrera/UX/assets/89926906/f810aac8-7464-4c80-88e9-8354b2d3ba6e)
