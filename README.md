@@ -25,6 +25,7 @@ This process helped us understand our market segment and relate it to a value-ad
 
 ## Scope
 In this section we create a profile of our ideal customer and visualize how our product will work for them. So we created what is called a User Persona.
+
 <img width="503" alt="UXPersona1" src="https://github.com/jabinherrera/UX/assets/89926906/6857b1cd-6917-4577-b6ba-c3c6cb2a6a32">
 <img width="503" alt="UXPersona2" src="https://github.com/jabinherrera/UX/assets/89926906/09976555-28be-4f1e-b512-524494e13a84">
 <img width="500" alt="UXPersona3" src="https://github.com/jabinherrera/UX/assets/89926906/62cb1be3-2619-4bcd-99b5-b539266438d3">
