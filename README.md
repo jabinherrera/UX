@@ -1,5 +1,5 @@
 # Astromini
-User experience design process for Space Kids. A website for kids under 18 to learn in a fun way about astronomy.
+User experience design process for Astromini. A website for kids under 18 years to learn in a fun way about astronomy.
 
 ## Index
 - [Description](https://github.com/jabinherrera/UX/blob/main/README.md#description)
