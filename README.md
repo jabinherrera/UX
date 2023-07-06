@@ -19,7 +19,7 @@ The problem to be solve by our group is to design a web aplication for kids unde
 ## Strategy
 Our first step as a team, was to create the strategy. A "Value Proposition Canvas" is used to compare application and the posible solutions that it may bring to our users.
 
-![Propuesta Valor (Strategy)](https://github.com/jabinherrera/UX/assets/89926906/636d60af-5252-428a-8443-fccd1f7cad87)
+![Propuesta Valor (Strategy)](https://github.com/jabinherrera/UX/assets/89926906/0a8e86c7-d44e-43a0-95ea-63dd2e740993)
 
 This process helped us understand our market segment and relate it to a value-adding proposition. From the previous figure, is worth mentioning the element in "Work to be done", "Show space images" and its counterpart in "Functionality", "Friendly elements and/or images", this allowed us to get a better understanding of our project. <!-- Decir si agregamos, mantubimos o descartamos ideas de las propuestas de valor al final del proyecto -->
 
