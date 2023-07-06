@@ -28,7 +28,7 @@ In this section we create a profile of our ideal customer and visualize how our 
 ![User Persona](https://github.com/jabinherrera/UX/assets/89926906/7f296e21-f630-46fe-8069-998cda1b6afa)
 
 According to the UX Persona we define the customer journey map as a projection of what our user is going to feel when using our website.
-![Customer Journey - UXUI](https://github.com/jabinherrera/UX/assets/89926906/7d9fe45f-a802-4c3b-b85d-47d43225de8a)
+![Customer_Journey_-_UXUI](https://github.com/jabinherrera/UX/assets/89926906/f810aac8-7464-4c80-88e9-8354b2d3ba6e)
 
 We defined how to meet the strategic objectives in the previous section. These are converted into requirements through the benchmark canvas.
 ![Benchmark Esquema](https://github.com/jabinherrera/UX/assets/89926906/972022e9-1941-4dca-bb55-18fec10c596b)
